@@ -1,0 +1,10 @@
+
+spark.appName="HelloSpark"
+spark.master="local[*]"
+
+elastic.resource="<index?>"
+elastic.port="<port>"
+elastic.username="<username>"
+elastic.password="<password>"
+elastic.nodes="<url>"
+
